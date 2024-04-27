@@ -1,0 +1,11 @@
+.rodape{
+    background-color: black;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape-paragrafo{
+    font-size: 1.1rem;
+}
