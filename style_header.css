@@ -28,12 +28,15 @@
     gap: 6.25rem;
 }
 
-.item-lista a{
-   text-decoration: none;
+.link_{
+    text-decoration: none;
 }
 
-.item-lista a:hover{
-    font-size: 18px;
+.link_ :hover{
     color: #fff700;
+}
+
+.item-lista{
+    text-decoration: none;
 }
 
